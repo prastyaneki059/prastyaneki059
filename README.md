@@ -1,1 +1,1 @@
-1. javascript dom selectionn 
+1.membuat web e-commerce sederhana dengan desaign yang menarik 
